@@ -1,0 +1,84 @@
+.streamer-mode-button-dfje3df3jn3132jo {
+  position: fixed;
+  z-index: 1000;
+  right: -162px;
+  top: 55px;
+  text-shadow: none;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 5px;
+  text-align: center;
+  background: #fff;
+  height: 20px;
+  line-height: 20px;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0px 3px 4px -2px #000;
+  background-color: red;
+  transition: 1s;
+  font-size: 16px;
+  width: 132px;
+}
+
+.streamer-mode-button-dfje3df3jn3132jo:hover {
+  right: 12px;
+  opacity: 1 !important;
+}
+
+.streamer-mode-button-dfje3df3jn3132jo:active {
+  box-shadow: none !important;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-spec-name {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .streamer-mode-button-dfje3df3jn3132jo {
+  background-color: green;
+  opacity: 0;
+}
+
+.streamer-mode-on-sd3fjseqs23jf #exit-to-lobby,
+.streamer-mode-on-sd3fjseqs23jf #complain_button,
+.streamer-mode-on-sd3fjseqs23jf .fullscreen-button,
+.streamer-mode-on-sd3fjseqs23jf .user-button.invite-button,
+.streamer-mode-on-sd3fjseqs23jf .user-button.reload-button,
+.streamer-mode-on-sd3fjseqs23jf .hud-credits,
+.streamer-mode-on-sd3fjseqs23jf .hud-in-specmode,
+.streamer-mode-on-sd3fjseqs23jf .hud-in-specmode-ads,
+.streamer-mode-on-sd3fjseqs23jf #amxmodmenu,
+.streamer-mode-on-sd3fjseqs23jf #votekick_button,
+.streamer-mode-on-sd3fjseqs23jf .hud-guest-banner,
+.streamer-mode-on-sd3fjseqs23jf .hud-ads {
+  visibility: hidden;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-bomb-planted {
+  top: 18px;
+  left: 50%;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-bomb-timer {
+  font-size: 22px;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-death-weapon,
+.streamer-mode-on-sd3fjseqs23jf .hud-death-head {
+  font-size: 32px;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-scoreboard {
+  font-size: 18px;
+  top: 10%;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-death-victim,
+.streamer-mode-on-sd3fjseqs23jf .hud-death-killer {
+  font-size: 20px;
+}
+
+.streamer-mode-on-sd3fjseqs23jf .hud-death {
+  height: 28px;
+}
+
