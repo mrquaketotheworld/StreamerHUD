@@ -1,5 +1,5 @@
 # StreamerHUD
-Chrome/Brave browser extension. Toggle streamer HUD on the play-cs.com (CS 1.6 in browser). Hides HUD elements such as admin panel, tooltips and so on. Increases fonts in different parts of the HUD. Corrects the spacing of some elements. 
+Chrome/Brave browser extension. Toggle streamer HUD on the www.play-cs.com (CS 1.6 in browser). Hides HUD elements such as admin panel, tooltips and so on. Increases fonts in different parts of the HUD. Corrects the spacing of some elements. 
 
 ![StreamerHUDoff](https://user-images.githubusercontent.com/53916002/232320481-bad88915-c086-4dff-a997-ae8919ca01ba.png)
 ![StreamerHUDon](https://user-images.githubusercontent.com/53916002/232320479-dcb36894-b63a-4a65-b328-4f3f9753d1df.png)
