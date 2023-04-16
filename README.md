@@ -7,7 +7,7 @@ Chrome/Brave browser extension. Toggle streamer HUD on the play-cs.com (CS 1.6 i
 ## How to install an extension?
 1) Download StreamerHUD.zip file from https://github.com/mrquaketotheworld/StreamerHUD/releases/tag/StreamerHUD.
 2) Go to chrome://extensions, turn on "Developer mode" and drag'n'drop zip to your browser as shown in the gif.
-![ExtensionInstall](https://user-images.githubusercontent.com/53916002/232311733-63a142b6-f050-4041-8b12-c5d873bf0e89.gif)
+![ExtensionInstall](https://user-images.githubusercontent.com/53916002/232323644-2c7d3728-6df1-4bc5-bec9-0c19799adab8.gif)
 
 ## How to use it?
 1) To turn on Streamer HUD, click on the red button in the upper right corner in the game.
