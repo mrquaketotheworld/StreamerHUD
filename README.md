@@ -12,4 +12,3 @@ Chrome/Brave browser extension. Toggle streamer HUD on the play-cs.com (CS 1.6 i
 ## How to use it?
 1) To turn on Streamer HUD, click on the red button in the upper right corner in the game.
 2) To turn off Streamer HUD, hover on the same place where red button was, then green button will appear, click.
-Each time you enter the game, the saved commands will be executed automatically.
